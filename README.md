@@ -25,6 +25,7 @@ graph TD
     Tools --> Researcher
     
     Check -- "No" --> Final([Output Account Plan])
+```
 	
 ## 🛠️ Tech Stack
 * **Orchestration:** LangGraph (State management & Loops).
