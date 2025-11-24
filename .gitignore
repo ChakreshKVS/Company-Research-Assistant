@@ -1,0 +1,14 @@
+# Security: Never upload API keys
+.env
+
+# Python system files
+__pycache__/
+*.pyc
+
+# Virtual Environment (The heavy folder)
+venv/
+.venv/
+env/
+
+# Chainlit cache
+.chainlit/
